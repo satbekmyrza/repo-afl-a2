@@ -50,7 +50,7 @@ Everything you need to submit as part of your assignment is written in the **Del
 
 ## How to Submit
 
-to be filled...
+Submit your file via BlackBoard. The submission should be made by May 2nd, 11:59 pm. 
 
 ## FAQ
 We will post answers some of the questions here. 
