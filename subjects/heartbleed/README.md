@@ -61,4 +61,14 @@ Provide the code you wrote for harness as part of your assignment submission.
 
 ## 2. Heartbleed explanation
 
-You can read one of the Heartbleed explanations [here](https://www.theregister.com/2014/04/09/heartbleed_explained/). As part of your assignment submission, explain the bug with the concrete values you observed as the basis of your explanation. 
+You can read one of the Heartbleed explanations [here](https://www.theregister.com/2014/04/09/heartbleed_explained/). As part of your assignment submission, explain the bug with the concrete values you observed as the basis of your explanation. You should report the following:
+
+1) The program location where the program crashes. You can find this information by running the program with a crash-causing input. 
+2) Explain why the crash occurred in the identified program location. 
+
+Hint: As described [here](https://www.theregister.com/2014/04/09/heartbleed_explained/), the buffer overflow occurs in the following statement:
+
+```c
+memcpy(bp, pl, payload);
+```
+What is the value of `payload` you observed when the crash-causing input is used? Why does the buffer overflow occur when the observed `paylaod` value is used? 
