@@ -46,7 +46,9 @@ Please follow the instructions in `README.md` for each vulnerability in each of 
 
 ## Deliverables
 
-Everything you need to submit as part of your assignment is written in the **Deliverables** section of `README.md`'s in `subjects/*/`. Only **Part 3** of the assignment is graded. 
+Everything you need to submit as part of your assignment is written in the **Deliverables** section of `README.md`'s in `subjects/*/`. Only **Part 3** of the assignment is graded. Submit a single report that covers all three projects (`libxml2`, `OpenSSL`, and `Sendmail`), along with other requested materials such as a plot file. 
+
+Note: We will consider the quality of your deliverables when grading. 
 
 ## How to Submit
 
